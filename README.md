@@ -1,5 +1,5 @@
 # Hindi-to-English-Transformer-Based-NMT
-Translating texts from Hindi to English using the Transformer model
+Translating sentences from Hindi to English using the Transformer model for NLP
 
 ## Datasets
 Original Data: http://www.cfilt.iitb.ac.in/iitb_parallel/
